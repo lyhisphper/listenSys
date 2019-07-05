@@ -1,0 +1,16 @@
+{
+  "name": "administrator/listen-sys",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Daniel",
+      "email": "894806814@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Lqx\\": "src/"
+    }
+  }
+}
